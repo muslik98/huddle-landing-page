@@ -90,7 +90,7 @@ footer {
     }
 
     .container {
-        padding: 60px 90px;
+        padding: 40px 80px;
     }
 
     nav img {
@@ -100,13 +100,12 @@ footer {
     section {
         height: 460px;
         display: flex;
-        margin-top: 80px;
+        margin-top: 100px;
         margin-bottom: 10px;
     }
 
     section img {
         width: 60%;
-        height: 450px;
     }
 
     .section {
@@ -115,7 +114,6 @@ footer {
         padding: 0 0 0 60px;
         text-align: left;
         align-self: center;
-        margin-bottom: 130px;
     }
 
     .section h1 {
@@ -126,7 +124,12 @@ footer {
         text-align: right;
     }
 
+    .social-media {
+        text-align: end;
+    }
+
     .social-media img{
+        width: 30px;
         height: auto;
     }
 
